@@ -1,7 +1,7 @@
 # MasterMiner
 Práctica de la asignatura de fundamentos de la programación
 
-# Herramientas utilizadas
+# Lenguaje utilizado
 - C++
 
 # Calificación
